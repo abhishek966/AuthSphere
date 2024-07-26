@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AuthSphere.iml" filepath="$PROJECT_DIR$/.idea/AuthSphere.iml" />
-      <module fileurl="file://$PROJECT_DIR$/authSphere/authSphere.iml" filepath="$PROJECT_DIR$/authSphere/authSphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/authSphere/auth.iml" filepath="$PROJECT_DIR$/authSphere/auth.iml" />
     </modules>
   </component>
 </project>

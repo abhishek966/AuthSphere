@@ -4,11 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03319227-e16c-45bb-b7ae-4ea51dc7e6f4" name="Changes" comment="" />
+    <list default="true" id="03319227-e16c-45bb-b7ae-4ea51dc7e6f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/authSphere/src/main/java/com/authsphere/auth/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authSphere/src/main/java/com/authsphere/auth/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authSphere/src/main/java/com/authsphere/auth/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authSphere/src/main/java/com/authsphere/auth/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authSphere/src/main/java/com/authsphere/auth/serviceImpl/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authSphere/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/authSphere/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authSphere/src/main/java/com/authsphere/authSphere/AuthSphereApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/authSphere/src/main/java/com/authsphere/auth/AuthSphereApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authSphere/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/authSphere/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authSphere/src/test/java/com/authsphere/authSphere/AuthSphereApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/authSphere/src/test/java/com/authsphere/auth/AuthSphereApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +45,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2jnDtYS1PEhs4OnjqHncVd80kyZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,18 +57,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/abhis/Documents/GitHub/AuthSphere",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="AuthSphereApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.authsphere.authSphere.AuthSphereApplication" />
-      <module name="authSphere" />
+      <option name="MAIN_CLASS_NAME" value="com.authsphere.auth.AuthSphereApplication" />
+      <module name="auth" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.authsphere.authSphere.*" />
+          <option name="PATTERN" value="com.authsphere.auth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
